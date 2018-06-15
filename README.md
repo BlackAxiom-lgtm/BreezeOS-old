@@ -1,4 +1,3 @@
-# Breeze+
-## Model: SM-J530F/G/Y/S/K/L/Y/YM/FM/GM
-## Device: j5y17XXX
-## Master.zip not same as releases do not download.
+BreezeOS J5 (2017) F/G/S/L/K/Y/YM/GM/FM
+Download using download as zip or alternatively use git clone and then
+zip contents.
