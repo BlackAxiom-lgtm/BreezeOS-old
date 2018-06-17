@@ -1,4 +1,5 @@
 BreezeOS J5 (2017) F/G/S/L/K/Y/YM/GM/FM
+
 Using git:
 
 git clone <git url>
@@ -20,3 +21,6 @@ Re-zip 4 folders inside it
 flash
 <br>
 First boot 5-10 minutes
+
+This branch is for testing purposes only, you might encounter bugs/issues.
+
